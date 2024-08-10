@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/shape-analysis-tool.git
+   git clone https://github.com/SHAY2407/Round-2.git
    cd Round-2
    ```
 
